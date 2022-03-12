@@ -1,8 +1,10 @@
-# [Live Server](http://www.adviceapp.ml/)
-
 # Advice App
 
 An application which fetches advice using the adviceslip API. It is responsive for Desktop, Tablet and Mobile.This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+To visit app:
+[www.adviceapp.ml](http://www.adviceapp.ml/)
+
 
 ![image](https://user-images.githubusercontent.com/86056728/158032160-d645751f-10c7-4849-a4d3-84c03ab01082.png)
 
