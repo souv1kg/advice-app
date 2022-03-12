@@ -3,7 +3,7 @@ html,
 body {
   margin: 0;
   height: 100%;
-  background: url("road.jpg");
+  background: url("assets/road.jpg");
   padding: 0;
   height: 100vh;
   box-sizing: border-box;
