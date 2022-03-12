@@ -4,7 +4,7 @@ body {
   margin: 0;
   height: 100%;
   background: url("assets/road.jpg");
-  padding: 0;
+  padding: 0px;
   height: 100vh;
   box-sizing: border-box;
 }
